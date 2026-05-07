@@ -30,7 +30,6 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em segurança ofensiv
 
 ---
 
-### 🛠️ Toolbox (Tech Stack)
 
 ### 🛠️ Toolbox (Tech Stack)
 
