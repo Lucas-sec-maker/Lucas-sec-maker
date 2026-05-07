@@ -37,6 +37,8 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em segurança ofensiv
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4FAD5B?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
 ### Git Streak
 
