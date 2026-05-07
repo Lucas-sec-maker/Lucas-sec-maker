@@ -47,6 +47,7 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em segurança ofensiv
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa12/)
-
+### Tryhackme
+[![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 ---
 *"The quieter you become, the more you are able to hear."*
