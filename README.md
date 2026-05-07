@@ -39,12 +39,9 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em segurança ofensiv
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ---
+### Git Streak
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-sec-maker&show_icons=true&theme=dark" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
 
 ---
 
