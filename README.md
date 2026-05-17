@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🛡️ Cybersecurity Enthusiast | ADS Student | Linux Lover
 
-Estudante de Análise e Desenvolvimento de Sistemas focado em segurança ofensiva e defesa de redes,juntamente com a análise dados (pois para proteger, eu preciso entender). Em transição de carreira para o setor de TI, aplicando experiência em ambientes operacionais complexos para a resolução de problemas técnicos.
+Estudante de Análise e Desenvolvimento de Sistemas focado em segurança, infraestrutura de redes e análise de dados. Resolver problemas com tecnologia é o principal foco.
 
 ---
 
