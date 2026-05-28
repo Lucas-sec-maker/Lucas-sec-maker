@@ -1,55 +1,45 @@
-## Hi there 👋
+# Olá, eu sou o Lucas Barbosa 👋
+### Especialista em IA e Dados em formação | Desenvolvedor Python | Líder Operacional | Estudante de ADS
 
-<!--
-**Lucas-sec-maker/Lucas-sec-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Lucas Barbosa (Lucas-sec-maker) 👋
-
-### 🛡️ Cybersecurity Enthusiast | ADS Student | Linux Lover
-
-Estudante de Análise e Desenvolvimento de Sistemas focado em segurança, infraestrutura de redes e análise de dados. Resolver problemas com tecnologia é o principal foco.
+Estudante de Análise e Desenvolvimento de Sistemas focado em integrar **Liderança Operacional**, **Inteligência Artificial** e **Desenvolvimento em Python**. Meu objetivo é transformar a experiência prática em automação inteligente, otimizando fluxos de trabalho e elevando a precisão na resolução de problemas complexos.
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 **Educação:** 3º Semestre de ADS (Cruzeiro do Sul)
-- 🛡️ **Foco Atual:** Especializado em Blue Team (Hackers do Bem)
-- 🐧 **OS Favorito:** Pop!_OS & Kali Linux
-
+- 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas.
+- 🧠 **Foco Técnico:** Especialização em Inteligência Artificial e Análise de Dados aplicada à automação de processos e melhoria de resultados.
+- 👥 **Gestão e Pessoas:** Experiência sólida em liderança de equipes, aplicação de treinamentos e excelência no atendimento ao público.
+- 🛡️ **Cultura de Segurança:** Bagagem em infraestrutura e segurança digital, garantindo que o desenvolvimento de novas soluções seja sempre resiliente e seguro.
 
 ---
 
+### 🛠️ Tecnologias e Ferramentas
 
-### 🛠️ Toolbox (Tech Stack)
+#### Desenvolvimento e Inteligência Artificial
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+#### Sistema e Ambiente de Trabalho
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4FAD5B?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
----
-### Git Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
+---
+
+### 📊 Estatísticas e Conquistas
+
+#### Atividade no GitHub
+![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
+
+#### Plataformas de Conhecimento
+[![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 
 ---
 
 ### 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa12/)
-### Tryhackme
-[![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
+
 ---
-*"The quieter you become, the more you are able to hear."*
+*"A inteligência é a capacidade de se adaptar à mudança." — Stephen Hawking*
