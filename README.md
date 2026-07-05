@@ -1,45 +1,39 @@
 # Olá, eu sou o Lucas Barbosa 👋
-### Python| AWS | IA | Linux| Estudante de Segurança da Informação
+### Em transição de carreira para Segurança da Informação e Cloud
 
-Estudante de Segurança da Informação focado em integrar **Liderança Operacional**, **Inteligência Artificial**,**Cloud Computing** e **Cibersegurança**. Meu objetivo é transformar a experiência prática em automação inteligente, otimizando fluxos de trabalho e elevando a precisão na resolução de problemas complexos.
+Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, unindo experiência de liderança e resolução de problemas sob pressão com conhecimento técnico em construção. Foco em aprender fazendo: labs práticos, automação e boas práticas de segurança.
 
 ---
 
 ### 🚀 Sobre mim
-
-- 🎓 **Formação:** Tecnologia em Segurança da informação.
-- 🧠 **Foco Técnico:** Analista de Cloud e Cibersegurança
-- 👥 **Gestão e Pessoas:** Experiência sólida em liderança de equipes, aplicação de treinamentos e excelência no atendimento ao público.
-- 🛡️ **Cultura de Segurança:** Bagagem em infraestrutura e segurança digital, garantindo que o desenvolvimento de novas soluções seja sempre resiliente e seguro.
+- 🎓 **Formação:** Tecnólogo em Segurança da Informação — Universidade Anhembi Morumbi (início ago/2026)
+- 🛡️ **Estudando:** Fundamentos de cibersegurança (Hackers do Bem) e labs práticos no TryHackMe
+- ☁️ **Cloud:** AWS re/Start — EC2, Lambda, S3, RDS, IAM, VPC, CloudWatch (Escola da Nuvem)
+- 👥 **Background:** 6+ anos em operações, com experiência em liderança de equipes e treinamento — hoje aplicada à disciplina de processos em segurança
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-#### Desenvolvimento e Inteligência Artificial
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-#### Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E9430F?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
-### 📊 Estatísticas e Conquistas
+### 📌 Projetos em destaque
+*(veja os repositórios fixados abaixo)*
 
-#### Atividade no GitHub
+---
+
 ![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
 
-#### Plataformas de Conhecimento
+### 📊 Estudos e Progresso
+
 [![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 
 ---
 
 ### 📫 Como me encontrar
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa12/)
-
----
-*"A inteligência é a capacidade de se adaptar à mudança." — Stephen Hawking*
