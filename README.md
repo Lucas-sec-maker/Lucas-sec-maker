@@ -22,7 +22,7 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 ---
 
 ### 📌 Projetos em destaque
-*(veja os repositórios fixados abaixo)*
+- 🧾 **[sentinel_logistics](https://github.com/Lucas-sec-maker/sentinel_logistics)** — Auditor de notas fiscais com IA: extrai CNPJ, valor e data automaticamente de imagens usando a API do Google Gemini
 
 ---
 
