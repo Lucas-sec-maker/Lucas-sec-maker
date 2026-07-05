@@ -1,5 +1,5 @@
 # Olá, eu sou o Lucas Barbosa 👋
-### Especialista em IA e Dados em formação | Desenvolvedor Python | Líder Operacional | Estudante de Segurança da Informação
+### Python| AWS | IA | Linux| Estudante de Segurança da Informação
 
 Estudante de Análise e Desenvolvimento de Sistemas focado em integrar **Liderança Operacional**, **Inteligência Artificial** e **Desenvolvimento em Python**. Meu objetivo é transformar a experiência prática em automação inteligente, otimizando fluxos de trabalho e elevando a precisão na resolução de problemas complexos.
 
