@@ -14,7 +14,6 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,9 +26,9 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 
 ---
 
-![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
-
 ### 📊 Estudos e Progresso
+
+![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
 
 [![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 
