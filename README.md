@@ -8,7 +8,7 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em integrar **Lideran
 ### 🚀 Sobre mim
 
 - 🎓 **Formação:** Tecnologia em Segurança da informação.
-- 🧠 **Foco Técnico:** Especialização em Inteligência Artificial e Análise de Dados aplicada à automação de processos e melhoria de resultados.
+- 🧠 **Foco Técnico:** Analista de Cloud e Cibersegurança
 - 👥 **Gestão e Pessoas:** Experiência sólida em liderança de equipes, aplicação de treinamentos e excelência no atendimento ao público.
 - 🛡️ **Cultura de Segurança:** Bagagem em infraestrutura e segurança digital, garantindo que o desenvolvimento de novas soluções seja sempre resiliente e seguro.
 
