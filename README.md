@@ -12,6 +12,9 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 - 👥 **Background:** 6+ anos em operações, com experiência em liderança de equipes e treinamento — hoje aplicada à disciplina de processos em segurança
 
 ---
+## 🐍 Minhas Contribuições
+
+![Snake animation](https://raw.githubusercontent.com/Lucas-sec-maker/Lucas-sec-maker/output/github-contribution-grid-snake-dark.svg)
 
 ### 🛠️ Tecnologias e Ferramentas
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -32,4 +35,10 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barbosa12/)
+  <a href="https://www.linkedin.com/in/lucas-barbosa001" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Lucasb655@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
