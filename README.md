@@ -23,7 +23,7 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 
 ### 📊 Estudos e Progresso
 
-![Estatísticas de contribuição](https://github-readme-streak-stats.herokuapp.com/?user=Lucas-sec-maker&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 
 [![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 
