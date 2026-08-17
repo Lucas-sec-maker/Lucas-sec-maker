@@ -25,6 +25,8 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 
+![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula)
+
 [![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 
 ---
