@@ -26,7 +26,7 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 
 ### 📊 Estudos e Progresso
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Lucas-sec-maker&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Sequência de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula)
 
