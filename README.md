@@ -1,7 +1,7 @@
 # Olá, eu sou o Lucas Barbosa 👋
 ### Em transição de carreira para Segurança da Informação e Cloud
 
-Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, unindo experiência de liderança e resolução de problemas sob pressão com conhecimento técnico em construção. Foco em aprender fazendo: labs práticos, automação e boas práticas de segurança.
+Atualmente atuando como Auditor de Prevenção de Perdas e em transição ativa para Cibersegurança e Cloud Computing. Trago a bagagem de liderança operacional e análise crítica de riscos do ambiente corporativo para a segurança da informação. Foco em aprendizado prático e orientado a resultados: automação com Python, infraestrutura Linux/AWS e resolução de desafios em labs práticos
 
 ---
 
