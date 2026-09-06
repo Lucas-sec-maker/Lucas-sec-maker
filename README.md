@@ -26,9 +26,14 @@ Ex-Líder operacional migrando para **Cibersegurança** e **Cloud Computing**, u
 
 ### 📊 Estudos e Progresso
 
-![Estatísticas do GitHub](https://github-readme-stats-fast.vercel.app/api?username=Lucas-sec-maker&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Lucas-sec-maker&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://streak-stats.demolab.com/?user=Lucas-sec-maker&theme=tokyonight&hide_border=true)(https://git.io/streak-stats" height="175" />
+</p>
 
-![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Lucas-sec-maker&theme=tokyonight&hide_border=true&area=true)
+
+
+
 
 [![Perfil do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Lu.iuki.png)](https://tryhackme.com/p/Lu.iuki)
 
