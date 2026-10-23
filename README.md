@@ -8,7 +8,7 @@ Atualmente atuando como Auditor de Prevenção de Perdas e em transição ativa 
 ### 🚀 Sobre mim
 - 🎓 **Formação:** Tecnólogo em Segurança da Informação — Universidade Anhembi Morumbi (cursando)
 - 🛡️ **Estudando:** Fundamentos de cibersegurança (Hackers do Bem) e labs práticos no TryHackMe
-- ☁️ **Cloud:** AWS re/Start — EC2, Lambda, S3, RDS, IAM, VPC, CloudWatch (Escola da Nuvem)
+- ☁️ **Cloud:** AWS Certified Cloud Practitioner | AWS re/Start — EC2, Lambda, S3, RDS, IAM, VPC, CloudWatch (Escola da Nuvem)
 - 👥 **Background:** 6+ anos em operações, com experiência em liderança de equipes e treinamento — hoje aplicada à disciplina de processos em segurança
 
 ---
